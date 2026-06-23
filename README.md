@@ -2,23 +2,23 @@
 
 **Analista de Dados, BI & Controladoria** baseado em Curitiba - PR. 
 
-Conecto mais de 10 anos de experiência prática em gestão de negócios, planejamento operacional e análise de custos à tecnologia. Minha especialidade é transformar dados brutos em inteligência financeira e operacional para apoiar tomadas de decisão estratégicas.
+Conecto minha experiência prática em gestão de negócios, planejamento operacional e análise de custos à tecnologia. Busco oportunidades de nível inicial/assistente onde possa aplicar minha visão operacional e continuar expandindo minhas competências técnicas em dados.
 
 ---
 
 ### 💼 Perfil Profissional & Visão de Negócio
 
-- **Controladoria & Finanças:** Sólida base conceitual em Contabilidade Geral, de Custos e Auditoria (desenvolvida em rotina de estudos de alto rendimento para o concurso da SEFAZ-PR). Domínio na interpretação de demonstrativos gerenciais (DRE), fluxos de caixa e saúde financeira.
-- **Eficiência Operacional:** Experiência real na estruturação de análises de Custo por Quilômetro Rodado (CPK), Depreciação de Ativos, Margem de Contribuição, Mix de Produtos e Sazonalidade de Vendas.
-- **Gestão Ágil:** Certificação Professional Scrum Master I (PSM I), com foco em organização de entregas e foco em resultados.
+- **Controladoria & Finanças:** Familiaridade com conceitos de Contabilidade Geral, Contabilidade de Custos e Auditoria (adquirida em rotina de estudos focado no concurso da SEFAZ-PR). Capacidade de interpretar indicadores financeiros, fluxos de caixa e demonstrativos gerenciais (DRE) voltados para o negócio.
+- **Eficiência Operacional:** Vivência prática na estruturação de análises de Custo por Quilômetro Rodado (CPK), Depreciação de Ativos, Margem de Contribuição, Mix de Produtos e Sazonalidade de Vendas.
+- **Gestão Ágil:** Certificação Professional Scrum Master I (PSM I), compreendendo frameworks ágeis para a entrega de resultados.
 
 ---
 
-### 🛠️ Hard Skills & Ferramentas
+### 🛠️ Hard Skills & Ferramentas (Em Consolidação)
 
-- **Bancos de Dados & SQL:** Consultas estruturadas, Data Cleaning (higienização de bases), Agregações, Joins, Subqueries e CTEs.
-- **Microsoft Excel Avançado:** Dashboards gerenciais, tabelas dinâmicas, gráficos analíticos e funções de busca/lógica (PROCX, PROCV, SOMASES).
-- **Business Intelligence & ETL:** Desenvolvimento progressivo em Power BI, Power Query e modelagem dimensional (Star Schema).
+- **Bancos de Dados & SQL (Conhecimento Intermediário):** Execução de consultas estruturadas (SELECT, WHERE, GROUP BY), higienização de bases brutas (data cleaning) e desenvolvimento progressivo de Joins, Subqueries e CTEs utilizando SQLite.
+- **Microsoft Excel:** Construção de dashboards gerenciais, tabelas dinâmicas, gráficos analíticos e aplicação de funções de busca e lógica (PROCX, PROCV, SOMASES, CONT.SE).
+- **Business Intelligence & ETL:** Desenvolvimento em andamento de projetos integrados com Power BI e Power Query (Modelagem de dados).
 
 ---
 
@@ -26,18 +26,18 @@ Conecto mais de 10 anos de experiência prática em gestão de negócios, planej
 
 #### 🚖 [Power BI - Business Intelligence para Mobilidade Urbana](https://github.com)
 - **Desafio de Negócio:** Modelar e analisar a eficiência de uma operação de transporte autônomo por aplicativo.
-- **Tecnologias:** Power BI, Power Query, Modelagem Dimensional e Linguagem DAX.
-- **Impacto:** Criação de KPIs de faturamento, produtividade por período/região, segmentação por ticket médio e eficiência por distância rodada.
+- **Tecnologias:** Power BI, Power Query e tratamento inicial de dados.
+- **Impacto:** Construção de KPIs de faturamento, produtividade por período, segmentação por ticket médio e eficiência por distância rodada.
 
 #### 📊 [SQL & Excel - Esteira Evolutiva de Projetos Analíticos](https://github.com)
 - **Desafio de Negócio:** Integração estruturada entre bases de dados brutas e relatórios gerenciais simulando controladoria logística.
-- **Tecnologias:** SQL (SQLite) e Excel Avançado.
-- **Impacto:** Limpeza de dados brutos (Data Cleaning), cruzamento de tabelas e cálculo prático de Custo por Quilômetro Rodado (CPK) e depreciação.
+- **Tecnologias:** SQL (SQLite) e Excel.
+- **Impacto:** Prática em limpeza de dados brutos (Data Cleaning), filtros, ordenação e aplicação de métricas de Custo por Quilômetro Rodado (CPK).
 
 #### 📦 [Excel Gerencial - Análise de Rentabilidade e Mix de Vendas](https://github.com)
-- **Desafio de Negócio:** Avaliar a saúde financeira e o giro de estoque de um portfólio de produtos do varejo.
-- **Tecnologias:** Excel Avançado, Funções Lógicas, Tabelas Dinâmicas e Dashboard Executivo.
-- **Impacto:** Identificação de produtos de maior margem de contribuição, análise de sazonalidade de vendas e suporte ao planejamento de compras.
+- **Desafio de Negócio:** Avaliar o giro de estoque e o resultado financeiro de um portfólio de produtos do varejo.
+- **Tecnologias:** Excel, Funções Lógicas, Tabelas Dinâmicas e Dashboard Gerencial.
+- **Impacto:** Aplicação de conceitos de Margem de Contribuição, análise de sazonalidade de vendas e apoio ao planejamento de compras.
 
 ---
 
