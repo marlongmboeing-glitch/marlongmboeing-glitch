@@ -34,10 +34,10 @@ Conecto minha experiência prática em gestão de negócios, planejamento operac
 - **Tecnologias:** SQL (SQLite) e Excel.
 - **Impacto:** Prática em limpeza de dados brutos (Data Cleaning), filtros, ordenação e aplicação de métricas de Custo por Quilômetro Rodado (CPK).
 
-#### 📦 [Excel Gerencial - Análise de Rentabilidade e Mix de Vendas](https://github.com)
-- **Desafio de Negócio:** Avaliar o giro de estoque e o resultado financeiro de um portfólio de produtos do varejo.
-- **Tecnologias:** Excel, Funções Lógicas, Tabelas Dinâmicas e Dashboard Gerencial.
-- **Impacto:** Aplicação de conceitos de Margem de Contribuição, análise de sazonalidade de vendas e apoio ao planejamento de compras.
+#### 📦 [Excel Gerencial - Análise de Rentabilidade de Produtos e Inteligência Comercial](https://github.com)
+- **Desafio de Negócio:** Avaliar o desempenho financeiro e a eficiência de um portfólio de componentes automotivos/industriais a partir de dados de vendas.
+- **Tecnologias:** Microsoft Excel, Tabelas Dinâmicas, PROCV, Fórmulas Financeiras e Dashboard Gerencial.
+- **Impacto:** Identificação de produtos estratégicos por volume (Bobina de Ignição) versus produtos de máxima eficiência de margem (CDI com 58,33% de MC%), gerando insights diretos para estratégias de precificação, investimento e expansão comercial.
 
 ---
 
