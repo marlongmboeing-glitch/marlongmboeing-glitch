@@ -52,7 +52,8 @@ Conecto minha experiência prática em gestão de negócios, planejamento operac
 
 ### 🤝 Vamos nos conectar?
 
-Busco oportunidades nas áreas de **Controladoria, Business Intelligence (BI), Planejamento Comercial, Compras e Análise de Dados** na região de Curitiba - PR ou remoto.
+🚀 Objetivo Profissional: Busco oportunidades nas áreas de Controladoria, Business Intelligence (BI), Planejamento Comercial ou Análise de Dados. Atuo de forma presencial/híbrida em Curitiba e Região Metropolitana, avaliando a viabilidade logística de deslocamento para cada operação, além de posições 100% remotas.
+
 
 - 🏙️ **Localização:** Curitiba - PR 📍
 - 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
