@@ -55,6 +55,9 @@ Conecto minha experiência prática em gestão de negócios, planejamento operac
 🚀 Objetivo Profissional: Busco oportunidades nas áreas de Controladoria, Business Intelligence (BI), Planejamento Comercial ou Análise de Dados. Atuo de forma presencial/híbrida em Curitiba e Região Metropolitana, avaliando a viabilidade logística de deslocamento para cada operação, além de posições 100% remotas.
 
 
+
+
+
 - 🏙️ **Localização:** Curitiba - PR 📍
 - 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
 - 📧 **E-mail:** marlongmboeing@gmail.com
