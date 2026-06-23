@@ -25,7 +25,7 @@ Conecto minha experiência prática em gestão de negócios, planejamento operac
 ### 📈 Projetos Analíticos em Destaque
 
 #### 🚖 [Power BI - Business Intelligence para Mobilidade Urbana](https://github.com)
-- **Desafio de Negócio:** Modelar e analisar a eficiência de uma operação de transporte autônomo por aplicativo.
+- **Desafio de Negócio:** Modelar e analisar a eficiência de uma operação de transporte autônomo por aplicativo. 
 - **Tecnologias:** Power BI, Power Query e tratamento inicial de dados.
 - **Impacto:** Construção de KPIs de faturamento, produtividade por período, segmentação por ticket médio e eficiência por distância rodada.
 
