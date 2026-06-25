@@ -1,64 +1,85 @@
-# Olá, eu sou o Marlon Boeing! 👋
+# Olá, eu sou Marlon Boeing 👋
 
-**Analista de Dados, BI & Controladoria** baseado em Curitiba - PR. 
+Profissional com experiência em gestão administrativa, comercial e operacional, atuando com análise de custos, rentabilidade, planejamento, indicadores de desempenho e tomada de decisão.
 
-Conecto minha experiência prática em gestão de negócios, planejamento operacional e análise de custos à tecnologia. Busco oportunidades de nível inicial/assistente onde possa aplicar minha visão operacional e continuar expandindo minhas competências técnicas em dados.
+Atualmente direciono minha carreira para as áreas de Business Intelligence, Planejamento, Controladoria e Analytics, desenvolvendo projetos práticos em Excel, SQL e Power BI voltados à transformação de dados em informações estratégicas.
 
----
+## Formação
 
-### 💼 Perfil Profissional & Visão de Negócio
-
-- **Controladoria & Finanças:** Familiaridade com conceitos de Contabilidade Geral, Contabilidade de Custos e Auditoria (adquirida em rotina de estudos focado no concurso da SEFAZ-PR). Capacidade de interpretar indicadores financeiros, fluxos de caixa e demonstrativos gerenciais (DRE) voltados para o negócio.
-- **Eficiência Operacional:** Vivência prática na estruturação de análises de Custo por Quilômetro Rodado (CPK), Depreciação de Ativos, Margem de Contribuição, Mix de Produtos e Sazonalidade de Vendas.
-- **Gestão Ágil:** Certificação Professional Scrum Master I (PSM I), compreendendo frameworks ágeis para a entrega de resultados.
+* MBA em Gerenciamento de Projetos – SENAI
+* Tecnólogo em Gestão Comercial e Gestão de Pessoas – UNINTER
+* Professional Scrum Master™ I (PSM I)
 
 ---
 
-### 🛠️ Hard Skills & Ferramentas (Em Consolidação)
+# Portfólio de Projetos
 
-- **Bancos de Dados & SQL (Conhecimento Intermediário):** Execução de consultas estruturadas (SELECT, WHERE, GROUP BY), higienização de bases brutas (data cleaning) e desenvolvimento progressivo de Joins, Subqueries e CTEs utilizando SQLite.
-- **Microsoft Excel:** Construção de dashboards gerenciais, tabelas dinâmicas, gráficos analíticos e aplicação de funções de busca e lógica (PROCX, PROCV, SOMASES, CONT.SE).
-- **Business Intelligence & ETL:** Desenvolvimento em andamento de projetos integrados com Power BI e Power Query (Modelagem de dados).
+## 🚖 Mobilidade Urbana: Da Análise Operacional ao Business Intelligence
+
+Projeto desenvolvido a partir de dados reais de operação, com foco na identificação de padrões de demanda, faturamento, ticket médio, produtividade e comportamento operacional.
+
+### Fase 1 – Análise Exploratória em Excel
+
+Objetivos:
+
+* Análise de demanda por período
+* Faturamento por faixa horária
+* Ticket médio
+* Indicadores operacionais
+* Construção de KPIs e Tabelas Dinâmicas
+
+🔗 Projeto:
+[projeto-analise-mobilidade-urbana]
+
+### Fase 2 – Business Intelligence com Power BI
+
+Evolução da análise realizada em Excel para ambiente de BI.
+
+Objetivos:
+
+* Dashboards executivos
+* Visualização gerencial
+* Indicadores estratégicos
+* Apoio à tomada de decisão
+
+🔗 Projeto:
+[powerbi-business-intelligence-mobilidade-urbana]
 
 ---
 
-### 📈 Projetos Analíticos em Destaque
+## 📊 Análise de Rentabilidade de Produtos
 
-#### 🚖 [Power BI - Business Intelligence para Mobilidade Urbana](https://github.com)
-- **Desafio de Negócio:** Modelar e analisar a eficiência de uma operação de transporte autônomo por aplicativo. 
-- **Tecnologias:** Power BI, Power Query e tratamento inicial de dados.
-- **Impacto:** Construção de KPIs de faturamento, produtividade por período, segmentação por ticket médio e eficiência por distância rodada.
+Projeto desenvolvido para análise de margem de contribuição, faturamento, participação de receita e rentabilidade de produtos industriais.
 
-#### 📊 [SQL & Excel - Esteira Evolutiva de Projetos Analíticos](https://github.com)
-- **Desafio de Negócio:** Integração estruturada entre bases de dados brutas e relatórios gerenciais simulando controladoria logística.
-- **Tecnologias:** SQL (SQLite) e Excel.
-- **Impacto:** Prática em limpeza de dados brutos (Data Cleaning), filtros, ordenação e aplicação de métricas de Custo por Quilômetro Rodado (CPK).
+Principais análises:
 
-#### 📦 [Excel Gerencial - Análise de Rentabilidade de Produtos e Inteligência Comercial](https://github.com)
-- **Desafio de Negócio:** Avaliar o desempenho financeiro e a eficiência de um portfólio de componentes automotivos/industriais a partir de dados de vendas.
-- **Tecnologias:** Microsoft Excel, Tabelas Dinâmicas, PROCV, Fórmulas Financeiras e Dashboard Gerencial.
-- **Impacto:** Identificação de produtos estratégicos por volume (Bobina de Ignição) versus produtos de máxima eficiência de margem (CDI com 58,33% de MC%), gerando insights diretos para estratégias de precificação, investimento e expansão comercial.
+* Receita anual
+* Margem de contribuição
+* Participação no faturamento
+* Participação na margem
+* Dashboard Gerencial
+
+🔗 Projeto:
+[analise-rentabilidade-produtos-excel]
 
 ---
 
-### 📊 Minhas Estatísticas
+## 🛠️ Ferramentas
 
-<p align="left">
-  <img src="https://vercel.app" alt="Estatísticas do Marlon" height="150" />
-  <img src="https://vercel.app" alt="Linguagens Mais Usadas" height="150" />
-</p>
+* Excel Avançado
+* SQL
+* Power BI
+* Power Query
+* Modelagem de Dados
+* Indicadores e KPIs
+* Planejamento e Controladoria
 
 ---
 
-### 🤝 Vamos nos conectar?
+## Contato
 
-🚀 Objetivo Profissional: Busco oportunidades nas áreas de Controladoria, Business Intelligence (BI), Planejamento Comercial ou Análise de Dados. Atuo de forma presencial/híbrida em Curitiba e Região Metropolitana, avaliando a viabilidade logística de deslocamento para cada operação, além de posições 100% remotas.
+LinkedIn:
+linkedin.com/in/marlonboeing
 
-
-
-
-
-- 🏙️ **Localização:** Curitiba - PR 📍
-- 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
-- 📧 **E-mail:** marlongmboeing@gmail.com
-- 📞 **Telefone:** (41) 99749-0145
+E-mail:
+[marlongmboeing@gmail.com](mailto:marlongmboeing@gmail.com)
