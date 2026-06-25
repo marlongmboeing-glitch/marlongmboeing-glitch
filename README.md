@@ -29,7 +29,7 @@ Objetivos:
 * Construção de KPIs e Tabelas Dinâmicas
 
 🔗 Projeto:
-https://github.com/marlongmboeing-glitch/projeto-analise-mobilidade-urbana
+https://github.com/marlongmboeing-glitch/projeto-analise-mobilidade-urbana 
 
 ### Fase 2 – Business Intelligence com Power BI
 
