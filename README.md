@@ -29,7 +29,7 @@ Objetivos:
 * Construção de KPIs e Tabelas Dinâmicas
 
 🔗 Projeto:
-[projeto-analise-mobilidade-urbana]
+https://github.com/marlongmboeing-glitch/projeto-analise-mobilidade-urbana
 
 ### Fase 2 – Business Intelligence com Power BI
 
@@ -43,7 +43,7 @@ Objetivos:
 * Apoio à tomada de decisão
 
 🔗 Projeto:
-[powerbi-business-intelligence-mobilidade-urbana]
+https://github.com/marlongmboeing-glitch/powerbi-business-intelligence-mobilidade-urbana
 
 ---
 
@@ -60,7 +60,7 @@ Principais análises:
 * Dashboard Gerencial
 
 🔗 Projeto:
-[analise-rentabilidade-produtos-excel]
+https://github.com/marlongmboeing-glitch/analise-rentabilidade-produtos-excel
 
 ---
 
